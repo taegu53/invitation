@@ -1,8 +1,8 @@
 
 // 🔻날짜 기입 (현재 2027년 1월 1일 12시 30분으로 설정되어있음)
-const WEDDING_YEAR = 2027; // 년도
-const WEDDING_MONTH = 1; // 월
-const WEDDING_DAY = 1;  // 일
+const WEDDING_YEAR = 2026; // 년도
+const WEDDING_MONTH = 12; // 월
+const WEDDING_DAY = 19;  // 일
 
 const WEDDING_HOUR = 12; //시
 const WEDDING_MINUTE = 30;  //분
