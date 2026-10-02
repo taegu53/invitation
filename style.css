@@ -543,7 +543,7 @@ body {
 }
 .accordion-header {
   width: 100%;
-  padding: 16px 20px;
+  padding: 16px 16px;
   background-color: #f5f3ee;
   border: 1px solid #e8e5dd;
   border-radius: 4px;
