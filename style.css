@@ -597,6 +597,7 @@ body {
   font-size: 0.75rem;
   color: #5e5a50;
   cursor: pointer;
+  flex-shrink: 0;
 }
 .copy-btn:hover {
   background-color: #f5f3ee;
