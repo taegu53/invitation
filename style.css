@@ -579,7 +579,7 @@ body {
 .account-row {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   padding: 14px 0;
   font-size: 0.85rem;
   text-align: left;
