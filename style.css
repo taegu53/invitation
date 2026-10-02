@@ -578,9 +578,8 @@ body {
 }
 .account-row {
   display: flex;
-  flex-wrap: wrap;
   justify-content: space-between;
-  align-items: flex-start;
+  align-items: center;
   padding: 14px 0;
   font-size: 0.85rem;
   text-align: left;
