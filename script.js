@@ -139,6 +139,13 @@ const galleryImages = [
   "images/photo6.jpg",
   "images/photo7.jpg",
   "images/photo8.jpg",
+  "images/photo9.jpg",
+  "images/photo10.jpg",
+  "images/photo11.jpg",
+  "images/photo12.jpg",
+  "images/photo13.jpg",
+  "images/photo14.jpg",
+  "images/photo15.jpg",
 
 
 // 🔻사진 추가시 jpg" 끝에 , 찍고 복사 붙여넣기
