@@ -570,6 +570,7 @@ body {
 .accordion-content {
   display: none;
   width: 100%;
+  max-width: 100%
   background-color: #ffffff;
   border: 1px solid #e8e5dd;
   border-top: none;
@@ -599,6 +600,7 @@ body {
   color: #5e5a50;
   cursor: pointer;
   flex-shrink: 0;
+  white-space: nowrap;
 }
 .copy-btn:hover {
   background-color: #f5f3ee;
