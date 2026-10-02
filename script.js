@@ -149,7 +149,7 @@ const galleryImages = [
 
 
 // 🔻사진 추가시 jpg" 끝에 , 찍고 복사 붙여넣기
-  "images/photo9.jpg"
+  
 
 
 // 🔻아래에 복사 붙여넣기 하고 마지막 번호는 , 뺴기
